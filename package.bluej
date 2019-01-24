@@ -38,5 +38,5 @@ target2.name=Stack
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
-target2.x=90
-target2.y=150
+target2.x=100
+target2.y=130
