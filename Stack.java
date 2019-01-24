@@ -16,7 +16,7 @@
  * @version (January 7, 2019)
  */
 public class Stack{
-    
+    //some other comment check
     private String[] data;
     //you might need some extra private instance variables
     
