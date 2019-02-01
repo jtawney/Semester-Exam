@@ -16,11 +16,7 @@
  * @version (January 7, 2019)
  */
 public class Stack{
-<<<<<<< HEAD
-    //Testing a comment
-=======
-    //some other comment check
->>>>>>> c5d93916e5d52a58642cea3ea9aa5464dd790041
+
     private String[] data;
     //you might need some extra private instance variables
     
